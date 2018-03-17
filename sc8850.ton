@@ -1,0 +1,1476 @@
+GS 4
+1261
+
+Piano1 0
+UprightPiano 1
+Mild_Piano 2
+UprightP_w 8
+European_Pf 16
+Piano+Str. 24
+Piano+Str2 25
+Piano+Choir1 26
+Piano+Choir2 27
+
+Piano2 0
+Pop_Piano 1
+Rock_Piano 2
+Pop_Piano_w 8
+Rock_Piano_w 9
+Dance_Piano 16
+
+Piano3 0
+EG+Rhodes1 1
+EG+Rhodes2 2
+Piano3w 8
+
+Honky-tonk 0
+Honky-tonk2 8
+
+E.Piano1 0
+St.Soft_EP 8
+Cho.E.Piano 9
+SilentRhodes 10
+FM+SA_EP 16
+Dist_E.Piano 17
+Wurly 24
+Hard_Rhodes 25
+MellowRhodes 26
+
+E.Piano2 0
+E.Piano3 1
+Detuned_EP2 8
+Detuned_EP3 9
+EP_Legend 10
+St.FM_EP 16
+Hard_FM_EP 24
+EP_Phase 32
+
+Harpsichord 0
+Harpsichord2 1
+Harpsichord3 2
+Coupled_Hps 8
+Harpsi.w 16
+Harpsi.o 24
+Synth_Harpsi 32
+
+Clav. 0
+Clav.2 1
+Atk_Clav.1 2
+Atk_Clav.2 3
+Comp_Clav. 8
+Reso_Clav. 16
+Phase_Clav 17
+Clav.o 24
+Analog_Clav. 32
+JP8_Clav.1 33
+JP8_Clav.2 35
+SynRingClav. 36
+SynDistClav. 37
+JP8000Clav. 38
+PulseClav 39
+
+Celesta 0
+Pop_Celesta 1
+
+Glockenspiel 0
+
+MusicBox 0
+MusicBox2 1
+St.MusicBox 8
+
+Vibraphone 0
+Pop_Vibe. 1
+VibraPhone_w 8
+Vibraphones 9
+
+Marimba 0
+Marimba_w 8
+Barafon 16
+Barafon2 17
+Log_drum 24
+
+Xylophone 0
+Xylophone_w 8
+
+Tubular-bell 0
+Church_Bell 8
+Carillon 9
+Church_Bell2 10
+Tubularbellw 16
+
+Santur 0
+Santur2 1
+Santur3 2
+Cimbalom 8
+Zither1 16
+Zither2 17
+Dulcimer 24
+
+Organ1 0
+Organ101 1
+Ful_Organ1 2
+Ful_Organ2 3
+Ful_Organ3 4
+Ful_Organ4 5
+Ful_Organ5 6
+Ful_Organ6 7
+Trem.Organ 8
+Organ_o 9
+Ful_Organ7 10
+Ful_Organ8 11
+Ful_Organ9 12
+60's_Organ1 16
+60's_Organ2 17
+60's_Organ3 18
+Farf_Organ 19
+Cheese_Organ 24
+D-50_Organ 25
+JUNO_Organ 26
+Hybrid_Organ 27
+VS_Organ 28
+Digi_Church 29
+JX8_Organ 30
+FM_Organ 31
+70's_E.Organ 32
+Even_Bar 33
+Organ_Bass 40
+5th_Organ 48
+
+Organ2 0
+Jazz_Organ 1
+E.Organ16+2 2
+Jazz_Organ2 3
+Jazz_Organ3 4
+Jazz_Organ4 5
+Jazz_Organ5 6
+Jazz_Organ6 7
+Chorus_Or.2 8
+Octave_Organ 9
+Perc.Organ 32
+Perc.Organ2 33
+Perc.Organ3 34
+Perc.Organ4 35
+
+Organ3 0
+Rotary_Org. 8
+Rotary_Org.S 16
+Rock_Organ1 17
+Rock_Organ2 18
+Rotary_Org.F 24
+
+Church_Org.1 0
+Church_Org.2 8
+Church_Org.3 16
+Organ_Flute 24
+Trem.Flute 32
+Theater_Org. 33
+
+Reed_Organ 0
+Wind_Organ 8
+Puff_Organ 16
+
+Accordion_Fr 0
+Accordion_it 8
+Dist.Accord 9
+Cho.Accord 16
+Hard_Accord 24
+Soft_Accord 25
+
+Harmonica 0
+Harmonica2 1
+B.Harp.Basic 8
+B.Harp.Suppl 9
+
+Bandoneon 0
+Bandoneon2 8
+Bandoneon3 16
+
+Nylon-str.Gt 0
+Ukulele 8
+Nylon_Gt.o 16
+Velo_Harmnix 24
+Nylon_Gt.2 32
+Lequint_Gt. 40
+
+Steel-str.Gt 0
+12-str.Gt 8
+Nylon+Steel 9
+Atk_Steel_Gt 10
+Mandolin 16
+Mandolin2 17
+MandolinTrem 18
+Steel_Gt.2 32
+Steel+Body 33
+
+Jazz_Gt. 0
+Mellow_Gt. 1
+Pedal_Steel 8
+
+Clean_Gt. 0
+Clean_Half 1
+Open_Hard1 2
+Open_Hard2 3
+JC_Clean_Gt. 4
+Atk_CleanGt. 5
+Chorus_Gt. 8
+JC_Chorus_Gt 9
+TC_FrontPick 16
+TC_RearPick 17
+TC_Clean_ff 18
+TC_Clean2: 19
+LP_RearPick 20
+LP_Rear2 21
+LP_RearAttack 22
+Mid_Tone_GTR 23
+Chung_Ruan 24
+Chung_Ruan2 25
+
+Muted_Gt. 0
+Muted_Dis.Gt 1
+TC_Muted_Gt. 2
+Funk_Pop 8
+Funk_Gt.2 16
+Jazz_Man 24
+
+Overdrive_Gt 0
+Overdrive2 1
+Overdrive3 2
+More_Drive 3
+Guitar_Pinch 4
+Attack_Drive 5
+LP_OverDrvGt 8
+LP_OverDrv: 9
+LP_HalfDrv 10
+LP_HaldDrv2 11
+LP_Chorus 12
+
+DistortionGt 0
+Dist.Gt2: 1
+Dazed_Guitar 2
+Distortion: 3
+Dist.Fast: 4
+Attack_Dist 5
+Feedback_Gt. 8
+Feedback_Gt2 9
+Power_Guitar 16
+Power_Gt.2 17
+5th_Dist. 18
+Rock_Rythm 24
+Rock_Rythm2 25
+Dist_Rtm_GTR 26
+
+Gt.Harmonics 0
+Gt.Feedback 8
+Gt.Feedback2 9
+Ac.Gt.Harmnx 16
+E.Bass_Harm. 24
+
+Acoustic_Bs. 0
+Rockabilly 1
+Wild_A.Bass 8
+Atk_A.Bass 9
+Bass+OHH 16
+
+Fingered_Bs. 0
+Fingered_Bs2 1
+Jazz_Bass 2
+Jazz_Bass2 3
+Rock_Bass 4
+Heart_Bass 5
+Attack_Finger 6
+Finger_Slap 7
+ChorusJazzBs 8
+F.Bass/Harm. 16
+
+Picked_Bass 0
+Picked_Bass2 1
+Picked_Bass3 2
+Picked_Bass4 3
+Double_Pick 4
+Muted_PickBs 8
+P.Bass/Harm. 16
+
+Fretless_Bs. 0
+Fretless_Bs2 1
+Fretless_Bs3 2
+Fretless_Bs4 3
+Syn_Fretless 4
+Mr.Smooth 5
+Wood+FlessBs 8
+
+Slap_Bass1 0
+Slap_Pop 1
+Reso_Slap 8
+Unison_Slap 9
+
+Slap_Bass2 0
+Slap_Bass3 1
+FM_Slap 8
+
+Synth_Bass1 0
+SynthBass101 1
+CS_Bass 2
+JP-4_Bass 3
+JP-8_Bass 4
+P5_Bass 5
+JPMG_Bass 6
+Acid_Bass 8
+TB303_Bass 9
+Tekno_Bass 10
+TB303_Bass2 11
+Kicked_TB303 12
+TB303_Saw_Bs 13
+Rubber303_Bs 14
+Reso303_Bs 15
+Reso_SH_Bass 16
+TB303_Sqr_Bs 17
+TB303_DistBs 18
+Clavi_Bass	19
+Hammer 20
+Jungle_Bass 21
+Square_Bass2 22
+Square_Bass 23
+Arpeggio_Bs 24
+Hit&Saw_Bass 32
+Ring_Bass 33
+AtkSineBass 34
+OB_sine_Bass 35
+Auxiliary_Bs 36
+303SqDistBs 40
+303SqDistBs2 41
+303SqDistBs3 42
+303Sqr.Rev 43
+TeeBee 44
+
+Synth_Bass2 0
+SynthBass201 1
+Modular_Bass 2
+Seq_Bass 3
+MG_Bass 4
+Mg_Oct_Bass1 5
+MG_Oct_Bass2 6
+MG_Blip_Bs 7
+Beef_FM_Bass 8
+Dly_Bass 9
+X_Wire_Bass 10
+WireStr_Bass 11
+Blip_Bass 12
+RubberBass1 13 
+Syn_Bell_Bs 14
+Odd_Bass 15
+RubberBass_2 16
+SH101_Bass_1 17
+SH101_Bass_2 18
+Smooth_Bass	 19
+SH101_Bass_3 20
+Spike_Bass 21
+House_Bass 22
+KG_Bass 23
+Sync_Bass 24
+MG_5th_Bass 25
+RND_Bass 26
+WowMG_Bass 27
+Bubble_Bas 28
+Attack_Pulse 29
+Sync_Bass_2_ 30
+Pulse_Mix_Bs 31
+MG_Dist_Bass 32
+Seq_Bass_2__ 33
+3rd_Bass 34
+MG_Oct_Bass 35
+SlowEnvBass 36
+Mild_Bass 37
+DistEnvBass 38
+MG_LightBass 39
+DistSynBass 40
+Rise_Bass 41
+Cyber_Bass 42
+
+Violin: 0
+Violin_Atk: 1
+Slow_Violin 8
+
+Viola: 0
+Viola_Atk: 1
+
+Cello: 0
+Cello_Atk: 1
+
+Contrabass 0
+
+Tremolo_Str 0
+Trem_Str.St. 2
+Slow_Tremolo 8
+Suspense_Str 9
+SuspenseStr2 10
+																																	
+PizzicatoStr 0
+Vcs&Cbs_Pizz 1
+Chamber_Pizz 2
+St.Pizzicato 3
+Solo_Pizz. 8
+Solo_Spic. 16
+StringsSpic. 17																											
+
+Harp 0
+Harp&Strings 1
+Harp_St. 2
+Uillean_Harp 8
+Synth_Harp 16
+Yang_Qin 24
+Yang_Qin2 25
+SynthYangQin 26																		
+
+Timpani 0																													
+
+Strings 0
+Bright_Str 1
+ChamberStr 2
+Cello_sect. 3
+Bright_Str.2 4
+Bright_Str.3 5
+Quad_Strings 6
+Mild_Strings 7
+Orchestra 8
+Orchestra2 9
+Tremolo_Orch 10
+Choir_Str. 11
+Strings+Horn 12
+Str.+Flute 13
+Choir_Str.2 14
+Choir_Str.3 15
+St.Strings 16
+St.Strings2 17
+St.Strings3 18
+Orchestra3 19
+Orchestra4 20
+Velo_Strings 24
+Oct_Strings1 32
+Oct_Strings2 33
+ContraBsSect 34
+60s_trings 40
+ 				
+SlowStrings 0
+SlowStrings2 1
+SlowStrings3 2
+Legato_Str. 8
+Warm_Strings 9
+St.Slow_Str. 10
+St.Slow_Str2 11
+S.Str+Choir 12
+S.Str+Choir2 13
+																															
+Syn.Strings1 0
+OB_Strings 1
+StackStrings 2
+JP_Strings 3
+Chorus_Str. 4
+Syn.Strings3 8
+Syn.Strings4 9
+Syn.Strings6 10
+Syn.Strings7 11
+LoFi_Strings 12
+High_Strings 16
+Hybrid_Str. 17
+Tron_Strings 24
+Noiz_Strings 25
+																			
+Syn.Strings2 0
+Syn.Strings5 1
+JUNO_Strings 2
+FilteredOrch 3
+JP_Saw_Str. 4
+Hybrid_Str.2 5
+DistStrings 6
+JUNOFullStr. 7
+Air_Strings 8
+Atk_Syn_Str. 9
+StraightStr. 10
+																																		
+Choir_Aahs 0
+St.ChoirAahs 8
+Melted_Choir 9
+Church_Choir 10
+Boys_Choir1 11
+Boys_Choir2 12
+St.BoysChoir 13
+Rich_Choir 14
+Choir_Hahs 16
+Chorus_Lahs 24
+Chorus_Aahs 32
+Male_Aah+Str 33
+											
+Voice_Oohs 0
+Chorus_Oohs 1
+Voice_Oohs2 2
+Chorus_Oohs2 3
+OohsCodeMaj7 4
+OohsCodeSus4 5
+Jazz_Scat 6
+Voice_Dah 8
+JzVoice_Dat 9
+JzVoice_Bop 10
+JzVoice_Dow 11
+JzVoice_Thum 12
+VoiceLah_Fem 16
+ChorusLahFem 17
+VoiceLuh_Fem 18
+ChorusLuhFem 19
+VoiceLan_Fem 20
+ChorusLanFem 21
+VoiceAah_Fem 22
+VoiceUuh_Fem 23
+Fem_Lah&Lan 24
+VoiceWah_Mal 32
+ChorusWahMal 33
+VoiceWoh_Mal 34
+ChorusWohMal 35
+VoiceAah_Mal 36
+VoiceOoh_Mal 37
+Humming  40
+   
+SynVox 0
+SynVox2 1
+SynVox3 2
+Syn.Voice 8
+Silent_Night 9
+Syn.Voice2 10
+VP330_Choir 16
+Vinyl_Choir 17
+JX8P_Vox 18
+Analog_Voice 19
+																				
+OrchestraHit 0
+Bass_Hit 1
+6th_Hit 2
+Euro_Hit 3
+Impact_Hit 8
+Philly_Hit 9
+Double_Hit 10
+Perc.Hit 11
+Shock_Wave 12
+Bounce_Hit 13
+Drill_Hit  14
+Thrill_Hit 15
+LoFi_Rave 16
+Techno_Hit 17
+Dist_Hit 18
+Bam_Hit 19
+Bit_Hit 20
+Bim_Hit 21
+Technorg_Hit 22
+Rave_Hit 23
+Strings_Hit 24
+Stack_Hit 25
+Industry_Hit 26
+Clap_Hit 27	
+
+Trumpet 0
+Trumpet2 1
+Trumpet: 2
+Dark_Trumpet 3
+Trumpet&Nz 4
+Flugel_Horn 8
+4th_Trumpets 16
+Bright_Tp. 24
+Warm_Tp. 25
+Warm_Tp.2 26
+Twin_Tp. 27
+Syn._Trumpet 32
+
+Trombone 0
+Trombone2 1
+Twin_bones 2
+Bones&Tuba 3
+Bright_Tb  4
+Bs.Trombone	8
+Euphonium 16
+ 																								
+Tuba 0 Tuba2 1						
+Tuba+Horn 8		
+
+MutedTrumpet 0
+Cup_Mute_Tp 1
+MuteTrumpet2 2
+MuteTrumpet3 3			
+Muted_Horns	 8	
+
+French_Horns 0
+Fr.Horn2 1
+Horn+Orche 2
+Wide_FreHrns 3
+F.Hrn_Slow:	8 
+Dual_Horns	9
+Synth_Horn	16
+F.Horn_Rip 24
+
+Brass1 0
+Brass_ff 1
+Bones_Sect. 2
+St.Brass_ff 3
+Quad_Brass1 4
+Quad_Brass2 5
+Brass2 8
+Brass3	9
+Brass_sfz 10
+Brass_sfz2 12
+FatPop_Brass 14
+Brass_Fall 16
+Trumpet_Fall 17
+Octave_Brass 24
+Brass+Reed 25
+Fat+Reed 26
+Orch_Brass 32
+Orch_Brass2 33
+St.FatPopBrs 35
+St.Orch_Brs  36
+St.Orch_Brs2 37
+St.Orch_Brs3 38
+
+SynthBrass1 0
+JUNO_Brass 1
+Stack_Brass 2
+SH-5_Brass 3
+MKS_Brass 4
+Jump_Brass 5
+Pro_Brass	 8
+P5_Brass 9
+OrchSynBrass 10
+Oct_SynBrass 16
+Hybrid_Brass 17
+OctSynBrass2 18
+BPF_Brass 19   																					
+Synth_Brass2 0
+Soft_Brass 1
+Warm_Brass	 2
+Synth_Brass3	3
+Sync_Brass 4
+Fat_SynBrass 5
+DeepSynBrass 6
+SynBrass_sfz 8
+OB_Brass 9
+Reso_Brass	 10
+DistSqrBrass 11
+JP8000SawBrs	12
+Velo_Brass1 16	
+Transbrass 17												
+
+
+Soprano_Sax 0
+Soprano_Exp. 8
+
+Alto_Sax 0
+AltoSax_Exp. 8
+Grow_Sax 9
+AltoSax+Tp 16
+Sax_Section 17
+
+Tenor_Sax 0
+Tenor_Sax: 1
+BreathyTn.: 8
+St.Tenor_Sax 9
+
+Baritone_Sax 0
+Bari.Sax: 1	
+Bari&Tenor 8
+
+Oboe 0
+Oboe_Exp. 8	
+Multi_Reed 16
+
+English_Horn 0	
+
+Bassoon		0	
+
+Clarinet	0
+Bs_Clarinet		8
+Multi_Wind 16  
+Quad_Wind  17
+
+Piccolo 0
+Piccolo: 1
+Nay	8
+Nay_Tremoro 9
+Di	16
+																			
+Flute 0
+Flute2: 1
+Flute_Exp. 2
+Flt_Travelso 3
+Flute+Vln 8
+Pipe&Reed 9
+Tron_Flute 16
+Indian_Flute 17
+																														
+Recorder 0
+
+
+Pan_Flute 0
+Kawala	 8		
+Zampona 16
+Zampona_Atk	 17		
+Tin_Whistle	 24 
+TinWhistle_Nm 25	
+TinWhistle_Or 26
+
+Bottle_Blow 0
+
+Shakuhachi 0
+Shakuhachi: 1
+
+Whistle	0
+Whistle2 1
+																								
+Ocarina	0
+
+Square_Wave 0
+MG_Square 1
+Hollow_Mini 2	
+Mellow_FM	 3
+CC_Solo 4
+Shmoog 5
+LM_Square 6
+JP8000_TWM 7 
+2600_Sine 8
+Sine_Lead 9	
+KG_Lead	 10
+Twin_Sine   11 
+P5_Square	16
+OB_Square	17
+JP-8_Square 18
+Dist_Square  19	
+303SquarDst1 20
+303SquarDst2 21
+303Mix_Sqr  22
+Dual_Sqr&Saw  23
+Pluse_Lead	 24
+JP8_PulseLd1 25	
+JP8_PulseLd2 26
+MG_Reso.Pls 27
+JP8_PulseLd3 28	
+260RingLead 29
+303DistLead 30
+JP8000DistLd 31
+HipHop_SinLd 32
+HipHop_SqrLd 33
+HipHop_PlsLd 34	
+Flux_Pulse   35
+
+								
+Saw_Wave	0
+OB2_Saw	1
+Pulse_Saw 2
+Feline_GR 3	
+Big_Lead 4
+Velo_Lead 5	
+GR-300	 6
+LA_Saw 7
+Doctor_Solo 8
+Fat_Saw_Lead 9
+JP8000_Saw 10
+D-50_Fat_Saw 11
+OB_DoubleSaw 12	
+JP_DoubleSaw 13
+FatSawLead_2 14
+JP_SuperSaw 15
+Waspy_Synth	16
+PM_Lead 17
+CS_Saw_Lead	18
+MG_Saw_1 24
+MG_Saw_2 25
+OB_Saw_1 26
+OB_Saw_2 27
+D-50_Saw 28
+SH-101_Saw 29	
+CS_Saw 30
+MG_Saw_Lead 31
+OB_Saw_Lead	32
+P5_Saw_Lead	 33
+MG_unison	 34
+Oct_Saw_Lead 35
+Natural_Lead 35
+SequenceSaw1 40
+SequenceSaw2 41
+Reso_Saw 42
+Cheese_Saw1 43
+Cheese_Saw2 44
+Rhythmic_Saw 45
+SequencedSaw 46
+Techno_Saw 47
+
+Syn.Calliope	0
+Vent_Synth 1
+Pure_PanLead 2
+LM_Pure_Lead 8
+LM_Blow_Lead 9
+
+
+Chiffer_Lead	0
+TB_Lead	1
+Hybrid_Lead 2
+Unison_SqrLd 3
+FatSolo_Lead 4	
+ForcefulLead 5	
+Oct.UnisonLd 6	
+Unison_SawLd 7	
+Mad_Lead	 8	
+CrowdingLead 9
+Double_Sqr. 10
+
+Charang	0
+Wire_Lead 1
+FB.Charang 2
+Fat_GR_Lead	3
+Windy_GR_Ld 4
+Mellow_GR_Ld 5
+GR_&_Pulse	 6
+Dist.Lead	8
+Acid_Guitar1 9
+Acid_Guitar2 10
+Dance_Dst.Gt 11
+DanceDst.Gt2 12
+P5_Sync_Lead  16
+Fat_SyncLead 17
+Rock_Lead 18
+5th_DecaSync 19
+Dirty_Sync 20
+DualSyncLead 21
+LA_Brass_Ld 22
+JUNO_Sub_Osc 24
+2600_Sub_Osc 25
+JP8000Fd_Osc 26
+
+Solo_Vox 0
+Solo_Vox2 1	
+Vox_Lead 8	
+LFO_Vox 9
+Vox_Lead 10	
+													
+5th_Saw_Wave 0
+Big_Fives 1	
+5th_Lead 2	
+5th_Ana.Clav 3	
+5th_Pulse 4	
+JP_5th_Saw 5
+JP8000_5thFB 6	
+4th_Lead	8
+															
+Bass_&_Lead 0
+Big_&_Raw 1
+Fat_&_Perky 2	
+JUNO_Rave	 3
+JP8_BsLead1 4
+JP8_BsLead2 5
+SH-5_Bs.Lead 6
+Delayed_Lead 7	
+
+Fantasia	 0
+Fantasia2 1
+New_Age_Pad	 2
+Bell_Heaven 3
+Fantasia3 4
+Fantasia4 5
+After_D! 6
+260HarmPad 7
+
+Warm_Pad 0
+Thick_Matrix 1
+Horn_Pad	 2
+Rotary_Strng 3	
+OB_Soft_Pad 4
+Sine_Pad 5
+OB_Soft_Pad2 6	
+Octave_Pad	 8
+Stack_Pad	 9
+Human_Pad 10
+Sync_Brs.Pad 11	
+Oct.PWM_Pad 12
+JP_Soft_Pad	13
+
+Polysynth 0
+80's_PolySyn	 1
+Polysynth_2 2
+Poly_King 3
+Super_Poly 4
+Power_Stack	8
+Octave_Stack 9	
+Reso_Stack 10
+Techno_Stack 11
+Pulse_Stack 12	
+TwinOct.Rave 13	
+Oct.Rave 14	
+Happy_Synth 15
+ForwardSweep 16
+ReverseSweep 17	
+Minor_Rave 24
+
+Space_Voice	0
+Heaven_II	1
+SC_Heaven 2
+Itopia 3
+Water_Space 4
+Cold_Space 5
+Noise_Peaker 6
+Bamboo_Hit 7
+Cosmic_Voice 8
+Auh_Vox	9
+AuhAuh 10	
+Vocorderman	 11
+Holy_Voices 12	
+ 
+Bowed_Glass 0
+SoftBellPad	 1
+JP8_Sqr_Pad	 2
+7thBelPad	 3
+Steel_Glass 4
+Bottle_Stack 5	
+
+Metal_Pad 0
+Tine_Pad 1	
+Panner_Pad 2
+Steel_Pad 3
+Special_Rave 4
+Metal_Pad_2 5	
+
+Halo_Pad	0
+Vox_Pad	1
+Vox_Sweep 2
+Horror_Pad 8
+SynVox_Pad 9
+SynVox_Pad_2 10
+Breath&Rise 11
+Tears_Voices 12	
+
+Sweep_Pad 0
+Polar_Pad 1
+Ambient_BPF 2
+Sync_Pad 3
+Warriors 4
+Converge 8
+Shwimmer 9
+Celestial_Pd 10
+Bag_Sweep	11
+Sweep_Pipe 12
+Sweep_Stack 13
+Deep_Sweep 14
+Stray_Pad 15
+
+Ice_Rain 0
+Harmo_Rain 1	
+African_wood 2	
+Anklung_Pad	3
+Rattle_Pad	 4
+Saw_Impulse 5	
+Strange_Str. 6
+FastFWD_Pad 7
+Clavi_Pad 8
+EP_Pad 9
+Tambra_Pad 10	
+CP_Pad 11
+ 
+Soundtrack	0
+Ancestral	1
+Prologue 2
+Prologue2	 3
+Hols_Strings 4
+HistoryWave 5	
+Rave		8		
+
+Crystal 0
+Syn_Mallet 1
+Soft_Crystal 2	
+Round_Glock 3
+Loud_Glock	 4
+GlockenChime 5
+Clear_Bells	 6
+ChristmasBel 7
+Vibra_Bells 8
+Digi_Bells	 9
+Music_Bell	 10
+Analog_Bell 11
+Blow_Bell 12
+Hyper_Bell 13
+Choral_Bells 16
+Air_Bells 17
+Bell_Harp 18
+Gamelimba 19
+JUNO_Bell	 20
+JP_Bell 21
+Pizz_Bell 22
+Bottom_Bell 23
+
+Atmosphere 0
+Warm_Atmos	1
+Nylon_Harp	2
+Harpvox	3
+HollowReleas 4
+Nylon+Rhodes 5	
+Ambient_Pad	6
+Invisible	7
+Pulsey_Key	8
+Noise_Piano	9
+Heaven_Atmos 10
+Tambra_Atmos 11	
+
+Brightness 0
+Shining_Star 1
+OB_Stab 2
+Brass_Star 3
+Choir_Stab 4
+D-50_Retour 5
+SouthernWind 6
+SymbolicBell 7
+Org_Bell	 8
+
+Goblin 0
+Goblinson 1	
+50's_Sci-Fi 2	
+Abduction 3
+Auhbient 4
+LFO_Pad 5
+Random_Str 6
+Random_Pad	 7
+LowBirds_Pad 8	
+Falling_Down 9
+LFO_RAVE	 10
+LFO_Horror 11
+LFO_Techno	 12
+Alternative	 13
+UFO_FX	 14
+Gargle_Man 15
+Sweep_FX 16
+LM_Has_Come 17
+FallinInsect 18
+LFO_Oct.Rave 19
+Just_Before 20
+RND_Fl.Chord 21
+RandomEnding 22
+Random_Sine 23
+EatingFilter 24
+Noise&SawHit 25
+Pour_Magic 26
+DancingDrill 27
+Dirty_Stack 28
+Big_Blue 29
+Static_Hit 30	
+Atl.Mod.FX	 31
+Acid_Copter	 32
+
+Echo_Drops 0
+Echo_Bell	1
+Echo_Pan	2
+Echo_Pan_2 3
+Big_Panner 4
+Reso_Panner	 5
+Water_Piano 6
+Echo_SynBass 7
+Pan_Sequence 8
+Aqua	 9
+Panning_Lead 10
+PanningBrass 11	
+
+Star_Theme 0
+Star_Theme2 1
+Star_Mind 2
+Star_Dust 3
+Rep.Trance 4
+Etherality 5
+Mystic_Pad 6
+Dream_Pad 8
+Silky_Pad 9
+Dream_Pad2 10
+Silky_Pad2	 11
+New_Century 16
+7th_Atmos. 17
+Galaxy_Way 18
+Rising_OSC.  19
+			
+
+Sitar	0
+Sitar2 1
+Detune_Sitar	 2
+Sitar3	3
+Sitar/Drone 4 
+Sitar4      5
+Tambra	8
+Tamboura 16		
+
+Banjo 0
+Muted_Banjo	1
+Rabab 8
+San_Xian 9
+Gopichant	16
+Oud			24
+Oud+Strings	28
+Pi_Pa	32
+
+Shamisen 0	
+Tsugaru		1
+Syn_Shamisen 8
+
+Koto 0	
+Gu_Zheng	1
+Taisho_Koto	 8
+Kanoon	16
+Kanoon+Choir 19
+Oct_Harp 24
+																																	
+Kalimba	0	
+Sanza	8
+Bodhran  9
+Bodhran_Mute 10
+							   																																		
+Bagpipe	0					
+Didgeridoo 8
+Uillean_Pipe 9	
+UillnPipe_Nm 10
+UillnPipe_Or	 11
+																													
+Fiddle	0
+Er_Hu 8
+Gao_Hu 9	
+
+Shanai 0
+Shana2	1
+Pungi	8
+Hichiriki 16
+Mizmar		24
+Suona1	32
+Suona2	 33	
+
+
+Tinkle_Bell	0	
+Bonang	8
+Gender	9
+Gamelan_Gong 10
+St.Gamelan	 11
+Jang-Gu	12
+Jegogan     13  
+Jublag   14
+Pemade   15
+RAMA_Cymbal 16
+Kajar     17
+Kelontuk  18
+Kelontuk_Mt 19
+Kelontuk_Sid 20
+Kopyak_Op 21
+Kopyak_Mt 22
+Ceng_Ceng 23
+Reyoung 24
+Kempur    25
+Jngl_Crash 32
+Crash_Menu  40
+RideCym_Menu 41
+RideBellMenu 42
+
+Agogo 0			
+Atarigane 8	
+Tambourine 16	
+																										
+Steel_Drums 0
+Island_Mlt	1
+																																									
+Woodblock	 0		
+Castanets 8
+Angklung 16
+Angkl_Rhythm 17
+Finger_Snaps	24			
+909_HandClap	32
+HandClapMenu	40
+
+
+Taiko	0
+Small_Taiko	 1	
+Concert_BD 8
+ConcertBD_Mt 9
+Jungle_BD	16
+Techno_BD 17
+Bounce		18
+KendangWadon 24
+Bebarongan  25
+Pelegongan  26
+Dholak1    27
+Dholak2    28
+Jngl_BD_Roll 32
+Kick_Menu1 40
+Kick_Menu2 41
+Kick_Menu3 42
+Kick_Menu4 43
+
+Melo._Tom_1 0
+Real_Tom 1
+Real_Tom_2 2
+Jazz_Tom 3
+Brush_Tom 4
+Melo._Tom_2 8	
+Rock_Tom	 9
+Rash_SD 16
+House_SD 17
+Jungle_SD 18
+909_SD 19
+Jngl_SD_Roll 24
+SD_Menu_1 40
+SD_Menu_2 41
+SD_Menu_3 42
+SD_Menu_4 43
+SD_Menu_5 44
+
+Synth_Drum	0
+808_Tom 8
+Elec_Perc 9
+Sine_Prc 10
+606_Tom 11
+909_Tom 12
+606_Dist._Tom 13
+
+Reverse_Cym. 0
+Reverse_Cym2 1
+Reverse_Cym3 2
+Reverse_Cym4 3
+Rev.Snare_1 8
+Rev.Snare_2 9
+Rev.Kick_1 16
+Rev.ConBD 17
+Rev.Tom_1 24
+Rev.Tom_2 25 
+Rev.Tom_3 26
+Rev.Tom_4 27
+Rev.SD_Menu1 40
+Rev.SD_Menu2 41
+Rev.SD_Menu3 42
+Rev.BD_Menu1 43
+Rev.BD_Menu2 44
+Rev.BD_Menu3 45
+Rev.ClapMenu 46
+
+Gt.FretNoise 0
+Gt.CutNoise 1
+String_Slap 2
+Gt.CutNoise2 3
+Dist.CutNoiz 4
+Bass_Slide 5
+Pick_Scrape 6
+Gt.FX_Menu 8
+Bartok_Pizz 9
+Guitar_Slap 10
+Chord_Stroke 11
+Biwa_Stroke 12
+Biwa_Tremolo 13
+A.Bs.Nz_Menu 16
+D.Gt.Nz_Menu 17
+E.Gt.Nz_Menu1 18
+E.Gt.Nz_Menu2 19
+G.StrokeMenu 20
+G.SlideMenu 21
+A.Bs.Mute_Nz 22
+A.Bs.Touch_Nz 23
+A.Bs.Attack_Nz 24
+TC_Up_Nz 25
+TC_DownMt_Nz 26
+TC_UpMt_Nz 27
+TC_Down_Nz 28
+DstGT.UpNz 29
+DstGT.DownNz1 30
+DstGT.DownNz2 31
+DstGT.MuteNz 32
+Gt.StrokeNz5 34
+StlGt.SldNz1 35
+StlGt.SldNz2 36
+StlGt.SldNz3 37
+StlGt.SldNz4 38
+Gt.StrokeNz1 39
+Gt.StrokeNz2 40
+Gt.StrokeNz3 41
+Gt.StrokeNz4 42
+
+Breath_Noise 0
+Fl.Key_Click 1
+Brth_Nz_Menu 2
+Fl.Breath1 3
+Fl.Breath2 4
+Fl.Breath3 5
+Vox_Breath1 6
+Vox_Breath2 7
+Trombone_Nz 8
+Trumpet_Nz 9
+
+Seashore 0
+Rain  1
+Thunder 2
+Wind 3
+Stream 4
+Bubble 5
+Wind_2 6
+Cricket 7
+Pink_Noise 16
+White_Noise 17
+
+Bird 0
+Dog 1
+Horse-Gallop 2
+Bird2 3
+Kitty 4
+Growl 5
+Growl2 6
+Fancy_Animal 7
+Seal 8
+
+Telephone1 0
+Telephone2 1
+DoorCreaking 2
+Door 3
+Scratch 4
+Wind_Chimes 5
+Scratch2 7
+ScratchKey 8
+TapeRewind 9
+Phono_Noise 10
+MC-500_Beep 11
+Scratch3 12
+Scratch4 13
+Scratch5 14
+Scratch6 15
+Scratch7 16
+
+Helicopter 0
+Car-Engine 1
+Car-Stop 2
+Car-Pass 3
+Car-Crash 4
+Siren 5
+Train 6
+Jetplane 7
+Starship 8
+Burst_Noise 9
+Calculating 10
+Perc._Bang 11
+Burner 12
+Glass_&_Glam 13
+Ice_Ring 14
+Over_Blow 15
+Crack_Bottle 16
+Pour_Bottle 17
+Soda 18
+Open_CD_Tray 19
+Audio_Switch 20
+Key_Typing 21
+SL1 22
+SL2 23
+Car_Engine2 24
+Car_Horn 25
+Boeeeen 26
+R.Crossing 27
+Compresser 28
+Sword_Boom! 29
+Sword_Cross 30
+Stab!1 31
+Stab!2 32
+
+Applause 0
+Laughing 1
+Screaming 2
+Punch 3
+Heart_Beat 4
+Footsteps 5
+Applause2 6
+Small_Club 7
+ApplauseWave 8
+BabyLaughing 9
+Voice_One 16
+Voice_Two 17
+Voice_Three 18
+Voice_Tah 19
+Voice_Whey 20
+Voice_Kikit 22
+Voice_ComeOn 23
+Voice_Aou 24
+Voice_Oou 25
+Voice_Hie 26
+
+Gun_Shot 0
+Machine_Gun 1
+Lasergun 2
+Explosion 3
+Eruption 4
+Big_Shot 5
+Explosion2 6 																		
+
+
+																			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
