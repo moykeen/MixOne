@@ -1,2 +1,2 @@
 # MixOne
-A MIDI sequencer
+A MIDI sequencer built using Windows MFC
