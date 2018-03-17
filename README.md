@@ -1,0 +1,2 @@
+# MixOne
+A MIDI sequencer
